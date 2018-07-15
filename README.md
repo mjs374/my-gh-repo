@@ -1,1 +1,3 @@
-ECHO is on.
+# my-gh-repo
+
+Explore git command line
